@@ -1,5 +1,5 @@
 def nom(nom1="Tojikiston"):
-    print("Man ai  " + nom1)
+    print("Man az  " + nom1)
 nom("Dushanbe")
 nom("Yvon")
 nom("Khatlon")
